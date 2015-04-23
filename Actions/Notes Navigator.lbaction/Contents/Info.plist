@@ -16,6 +16,8 @@
 	<string>1.0</string>
 	<key>LBRequiredApplication</key>
 	<string>com.apple.Notes</string>
+	<key>LBAssociatedApplication</key>
+	<string>com.apple.Notes</string>
 	<key>LBScripts</key>
 	<dict>
 		<key>LBDefaultScript</key>
